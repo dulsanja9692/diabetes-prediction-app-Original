@@ -1,4 +1,4 @@
-## 🤖 Model Information
+## 🤖 Diabetics Prediction App
 Algorithm: Random Forest Classifier
 
 Accuracy: ~75-80%
